@@ -7,12 +7,12 @@
     },
     {
       "type": "minecraft:rarity_filter",
-      "chance": 3
+      "chance": 15
     },
     {
       "type": "minecraft:noise_based_count",
       "noise_to_count_ratio": 20,
-      "noise_factor": 470,
+      "noise_factor": 235,
       "noise_offset": -0.6
     },
     {
