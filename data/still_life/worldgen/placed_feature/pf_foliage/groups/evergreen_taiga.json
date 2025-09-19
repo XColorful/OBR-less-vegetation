@@ -16,7 +16,7 @@
           },
           {
             "data": 0,
-            "weight": 3
+            "weight": 5
           }
         ]
       }
@@ -24,7 +24,7 @@
     {
       "type": "minecraft:noise_based_count",
       "noise_to_count_ratio": 75,
-      "noise_factor": 270,
+      "noise_factor": 230,
       "noise_offset": 0.8
     },
     {
